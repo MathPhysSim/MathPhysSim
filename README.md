@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Simon
-- 👀 I’m interested in computational state of the art methods for the societal benefit
+- 👀 I’m interested in computational state of the art methods for the societal benefit, meaning there should be a real world application.
 - 🌱 I’m currently learning many aspects of Science as stochatic time series, deep reinforcement learning and many more...
 - 💞️ I’m looking to collaborate on industry applications, accelerator physics, medical reseach.
 - 📫 How to reach me simon.hirlaender(@)plus.ac.at
