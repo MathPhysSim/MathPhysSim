@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Simon
 - 👀 I’m interested in state of the art methods for societal benefit, meaning there should be a real-world application.
-- 🌱 I’m currently learning many aspects of Science as stochastic series, deep reinforcement learning and many more...leading a reinforcement learning team at the University in Salzburg.
-- 💞️ I’m collaboration and took to collaborate on industry applications, accelerator physics, medical research.
+- 🌱 I’m currently applying and learning many aspects of science as stochastic series, deep reinforcement learning and many more...leading a reinforcement learning team at the University in Salzburg. Before I spend several years at CERN.
+- 💞️ I’m collaboration and look to collaborate on industry applications, accelerator physics, medical research and fundamendal research in general.
 - 📫 How to reach me simon.hirlaender(@)plus.ac.at
 
 <!---
