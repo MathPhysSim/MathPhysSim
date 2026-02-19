@@ -1,6 +1,6 @@
-# Dr. Simon Hirlaender
+# Simon Hirlaender
 
-**Vice Director, IDA Lab | Head of Smart Analytics & Reinforcement Learning (@SARL-PLUS)** *Paris Lodron University of Salzburg (PLUS) | Visiting Scientist, CERN*
+**Vice Director, IDA Lab | Head of Smart Analytics & Reinforcement Learning ([@SARL-PLUS](https://github.com/SARL-PLUS))** *Paris Lodron University of Salzburg (PLUS) | Visiting Scientist, CERN*
 
 I am a Theoretical Physicist and Decision Scientist bridging the gap between rigorous theoretical modeling and modern Artificial Intelligence. My work integrates Hamiltonian mechanics, potential theory, and control theory with advanced machine learning to solve complex dynamical problems. 
 
@@ -12,8 +12,8 @@ In 2018, I led the first Deep Reinforcement Learning experiment at the CERN acce
 * **Technology Transfer:** Applying high-precision RL control methods to industry domains, including smart energy grids, steel production, and medical robotics.
 
 ### Key Initiatives & Leadership
-* **SARL-PLUS:** Leading the Reinforcement Learning and Data Science Team at the Department of Artificial Intelligence and Human Interfaces (AIHI).
-* **RL4AA Collaboration:** Active contributor to the *Reinforcement Learning for Autonomous Accelerators* international collaboration, fostering AI solutions for large-scale physics infrastructures.
+* **[SARL-PLUS](https://github.com/SARL-PLUS):** Leading the Reinforcement Learning and Data Science Team at the Department of Artificial Intelligence and Human Interfaces (AIHI).
+* **[RL4AA](https://github.com/RL4AA):** Active contributor to the *Reinforcement Learning for Autonomous Accelerators* international collaboration, fostering AI solutions for large-scale physics infrastructures.
 * **Education & Outreach:** Organizer of the annual International Reinforcement Learning Bootcamp in Salzburg and speaker at TEDx ("AI is what we make it").
 
 ### Featured Open-Source Projects
